@@ -1,0 +1,5 @@
+# //mention the folders, that are not ewquired to upload to github
+
+node_modules
+.env
+
